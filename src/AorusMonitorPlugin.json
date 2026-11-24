@@ -1,0 +1,8 @@
+{
+    "OpenRGBPluginAPIVersion": 5,
+    "Id": "org.openrgb.plugins.aorus-monitor-rgb",
+    "Name": "AORUS Monitor RGB",
+    "VersionStr": "1.0.0",
+    "Commit": "",
+    "Url": ""
+}

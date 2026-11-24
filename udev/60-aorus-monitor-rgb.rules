@@ -1,0 +1,2 @@
+# GIGABYTE AORUS monitor rear RGB controller (ITE IT8295)
+SUBSYSTEMS=="usb|hidraw", ATTRS{idVendor}=="048d", ATTRS{idProduct}=="8295", TAG+="uaccess"
